@@ -1,5 +1,5 @@
 # React Rangeslider with Markers [![NPM Package][npm_img]][npm_site]
-> A lightweight react component that acts as a HTML5 input range slider polyfill
+> This is a fork from https://github.com/whoisandie/react-rangeslider. Added custom min max markers on the slider.
 
 Check out [examples](https://whoisandie.github.io/react-rangeslider).
 
