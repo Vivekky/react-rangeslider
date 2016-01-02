@@ -1,4 +1,4 @@
-# React Rangeslider [![NPM Package][npm_img]][npm_site]
+# React Rangeslider with Markers [![NPM Package][npm_img]][npm_site]
 > A lightweight react component that acts as a HTML5 input range slider polyfill
 
 Check out [examples](https://whoisandie.github.io/react-rangeslider).
@@ -7,7 +7,7 @@ Check out [examples](https://whoisandie.github.io/react-rangeslider).
 Install via `npm` (use `--save` to include it in your package.json)
 
 ```bash
-$ npm install react-rangeslider --save
+$ npm install react-rangeslider-withmarker --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ React Rangeslider is bundled with a single slider component. You can require the
 
 ```js
 var React = require('react');
-var Slider = require('react-rangeslider');
+var Slider = require('react-rangeslider-withmarker');
 
 var Volume = React.createClass({
 	getInitialState: function(){
@@ -49,7 +49,7 @@ module.exports = Volume;
 
 ```js
 import React, { Component } from 'react';
-import Slider from 'react-rangeslider';
+import Slider from 'react-rangeslider-withmarker';
 
 export default Volume extends Component {
   constructor(props, context) {
