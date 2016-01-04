@@ -1,6 +1,6 @@
 {
   "name": "react-rangeslider-withmarker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a fork from https://github.com/whoisandie/react-rangeslider. Added custom min max markers on the slider.",
   "main": "lib/index",
   "scripts": {
